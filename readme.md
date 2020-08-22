@@ -21,6 +21,10 @@ Bot ini harus ditambahkan / di-add kedalam group sebelum semua orang masuk kedal
 - Tunggu sekitar 5-10 detik, maka otomatis kamu akan mengetikkan semua tag secara otomatis
 - Pastikan kamu tidak memindahkan cursor sampai proses pengetikan tag selesai
 
+## Future Update
+- Support for Mac OS LINE with different hot keys for sending chat
+- Create executable file for Windows (.exe) and mac (.dmg)
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
