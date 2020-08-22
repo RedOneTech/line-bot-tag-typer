@@ -1,6 +1,7 @@
 # LINE Bot Tag Typer
 
 LINE Bot Tag Typer adalah sebuah bot yang berfungsi untuk membantu dalam mentag semua orang yang ada di dalam sebuah group.
+Bot ini dibuat untuk memudahkan mentag semua orang dalam group tanpa risiko memberikan akun / login pada sistem lain
 
 ## Caution !!
 Bot ini harus ditambahkan / di-add kedalam group sebelum semua orang masuk kedalam group / multi-chat, dan harus selalu berada dalam group selama group ada
