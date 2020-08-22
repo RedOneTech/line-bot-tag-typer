@@ -10,10 +10,9 @@ Bot ini harus ditambahkan / di-add kedalam group sebelum semua orang masuk kedal
 - Download [linetagger.exe](https://gitlab.com/andrewsusanto/line-bot-tag/-/raw/master/dist/linetagger.exe?inline=False) Untuk Windows atau linetagger.app untuk Mac OS - Coming Soon
 - Add LINE Bot dengan ID [@108winxg](https://line.me/R/ti/p/@108winxg)
 - Setelah men-add LINE Bot maka kamu akan mendapatkan token, Jaga baik-baik token dan jangan beritahukan ke siapapun
-- Buka console / command prompt dan ketikkan ```pip install pynput```
 
 ## Usage
-- Jalankan linetagger.py dengan mengetikkan perintah ```python linetagger.py```
+- Jalankan linetagger.exe atau linetagger.app (Coming Soon)
 - Masukkan token yang kamu dapatkan dari LINE Bot sebelumnya
 - Lalu masuk ke group yang sudah terdapat LINE BOT dan terdapat member lainnya
 - Lalu kirim pesan ```mentionAll``` ke dalam group
