@@ -1,4 +1,4 @@
-endpoint = 'https://line-tag-bot.herokuapp.com/'
+endpoint = 'https://line-tag-bot.herokuapp.com/client/'
 token = input('Mohon masukk')
 
 import requests
