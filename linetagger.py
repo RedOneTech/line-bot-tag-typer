@@ -1,5 +1,8 @@
+print("LINE Automatic Type Tag")
+
 endpoint = 'https://line-tag-bot.herokuapp.com/client/'
-token = input('Mohon masukk')
+token = input('Silahkan masukan token dari bot : ')
+
 
 import requests
 from pynput.keyboard import Key, Controller
@@ -25,6 +28,8 @@ while True:
             keyboard.press(Key.enter)
             keyboard.release(Key.enter)
             keyboard.release(Key.alt_l)
+
+        index += 1
 
     if index != 1:
         keyboard.press(Key.alt_l)
