@@ -27,9 +27,13 @@ SECRET_KEY = 'yo_mw(^3t924v@0r7#flzts3le+5w-7ygsjg^o4+eby_i9p6+g'
 load_dotenv()
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+if 'HOME' in os.environ:
+    if '/app' in os.environ['HOME']:
+        DEBUG = False
+else:
+    DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'line-tag-bot.herokuapp.com', 'www.line-tag-bot.herokuapp.com']
 
 
 # Application definition
