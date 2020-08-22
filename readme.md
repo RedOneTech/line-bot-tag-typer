@@ -22,7 +22,7 @@ Bot ini harus ditambahkan / di-add kedalam group sebelum semua orang masuk kedal
 - Pastikan kamu tidak memindahkan cursor sampai proses pengetikan tag selesai
 
 ## Contributing
-
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
